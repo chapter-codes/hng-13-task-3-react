@@ -5,9 +5,15 @@ HNG Task 3 compliance:
 A multi-framework Ticket Management Web App built using React + Vite + Tailwind CSS 4.
 This project implements the React version of the HNG Stage 2 Task — providing a consistent layout, authentication, and ticket CRUD functionality as required.
 
+Repository: https://github.com/chapter-codes/hng-13-task-3-react
 🌐 Live Demo: https://hng-13-task-3-react.vercel.app
 
-📦 Repository: https://github.com/chapter-codes/hng-13-task-3-react
+📦 Vue Version: https://github.com/chapter-codes/hng-13-task-3-vue
+🌐 Live Demo: https://hng-13-task-3-vue.vercel.app
+
+Twig Version: https://github.com/chapter-codes/hng-13-task-3-twig
+🌐 Live Demo: https://scared-genius.github.io/twig-build
+
 
 🧰 Frameworks & Libraries Used
 Category	Tool
@@ -129,8 +135,6 @@ Refreshing protected pages clears transient state (expected behavior).
 
 🔗 Other Implementations
 
-Vue Version: https://github.com/chapter-codes/hng-13-task-3-vue
 
-Twig Version: https://github.com/chapter-codes/hng-13-task-3-twig
 
 © 2025 — HNG Stage 2 Task by chapter-codes
