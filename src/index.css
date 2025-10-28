@@ -1,0 +1,21 @@
+@import "tailwindcss";
+:root {
+--max-width: 1440px;
+}
+
+
+/* small utility to center container */
+/* .container-centered {
+max-width: var(--max-width);
+margin-left: auto;
+margin-right: auto;
+} */
+
+
+@theme inline{
+     
+    --color-status-open: #10B981;
+    --color-status-in_progress: #F59E0B;
+    --color-status-closed: #6B7280;
+
+}
